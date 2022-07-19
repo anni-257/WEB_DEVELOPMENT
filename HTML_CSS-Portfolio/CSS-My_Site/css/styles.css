@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    
+    margin: 0;
+}
+
+.skill-row{
+    padding: 25px;
+}
+.projects{
+    padding:25px;
+}
+
+p{
+    line-height: 2;
+}
+
+h1,h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    color:aqua
+}
+
+.middle-section{
+    margin-top: 25px;
+    color: white;
+    background-color: black;
+}
+
+#pro{
+    text-decoration: underline;
+    color:red;
+
+}
+
+ol { display: inline-block; margin: 0 auto; }
+
+.vl {
+    border-left: 3px dotted white;
+    height: 300px;
+  }
+.skill-table{
+    margin-left: auto ;
+    margin-right: auto;
+}
+.top-container{
+    background-color: white;
+    background-size: cover;
+    height: 294px;
+    padding: 250px 16px;
+}
+
+.cnt-me{
+    width:60%;
+    margin:auto;
+}
+.bottom-section{
+    background-color: red;
+    padding: 50px 0 20px;
+}
+
